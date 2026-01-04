@@ -1,0 +1,16 @@
+.filter-bar {
+  margin-bottom: 20px;
+}
+
+.filter-bar button {
+  margin-right: 10px;
+  padding: 6px 14px;
+  border: none;
+  border-radius: 6px;
+  background-color: #eee;
+  cursor: pointer;
+}
+
+.filter-bar button:hover {
+  background-color: #ccc;
+}

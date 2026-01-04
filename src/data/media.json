@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "type": "video",
+    "title": "charcos",
+    "src": "/media/videos/video1.mp4",
+    "date": "2022-09-11"
+  },
+  {
+    "id": 2,
+    "type": "video",
+    "title": "partido de futbol",
+    "src": "/media/videos/video2.mp4",
+    "date": "2025-01-04"
+  },
+  {
+    "id": 3,
+    "type": "video",
+    "title": "un bote en los charcos",
+    "src": "/media/videos/video3.mp4",
+    "date": "2022-09-11"
+  },
+  {
+    "id": 4,
+    "type": "video",
+    "title": "Emilio viendo foto del papa",
+    "src": "/media/videos/video4.mp4",
+    "date": "2023-01-23"
+  }
+]
