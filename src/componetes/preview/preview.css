@@ -33,3 +33,27 @@
   text-align: center;
 }
 
+@media (max-width: 768px) {
+  .preview-content {
+    max-width: 95%;
+    max-height: 95%;
+    padding: 12px;
+  }
+
+  .preview-content img,
+  .preview-content video {
+    max-height: 65vh;
+  }
+}
+
+@media (max-width: 480px) {
+  .preview-content {
+    padding: 8px;
+    border-radius: 10px;
+  }
+
+  .preview-content img,
+  .preview-content video {
+    max-height: 60vh;
+  }
+}

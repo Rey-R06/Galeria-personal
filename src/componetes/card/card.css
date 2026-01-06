@@ -1,17 +1,20 @@
 .card {
+  width: 100%;
   cursor: pointer;
-  transition: transform 0.2s ease;
-}
-
-.card:hover {
-  transform: scale(1.02);
+  overflow: hidden;
+  border-radius: 12px;
 }
 
 .card img,
 .card video {
   width: 100%;
-  border-radius: 8px;
+  height: 100%;
   object-fit: cover;
+}
+
+
+.card:hover {
+  transform: scale(1.02);
 }
 
 .card h4 {
