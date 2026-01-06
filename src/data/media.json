@@ -4,6 +4,7 @@
     "type": "video",
     "title": "charcos",
     "src": "/media/videos/video1.mp4",
+    "poster": "/media/portada/portada1.jpeg",
     "date": "2022-09-11"
   },
   {
@@ -11,6 +12,7 @@
     "type": "video",
     "title": "partido de futbol",
     "src": "/media/videos/video2.mp4",
+    "poster": "/media/portada/portada2.jpeg",
     "date": "2025-01-04"
   },
   {
@@ -18,12 +20,14 @@
     "type": "video",
     "title": "un bote en los charcos",
     "src": "/media/videos/video3.mp4",
+    "poster": "/media/portada/portada3.jpeg",
     "date": "2022-09-11"
   },
   {
     "id": 4,
     "type": "video",
     "title": "Emilio viendo foto del papa",
+    "poster": "/media/portada/portada4.jpeg",
     "src": "/media/videos/video4.mp4",
     "date": "2023-01-23"
   },
@@ -32,6 +36,7 @@
     "type": "video",
     "title": "Camila y Camilo",
     "src": "/media/videos/video5.mp4",
+    "poster": "/media/portada/portada5.jpeg",
     "date": "2025-06-29"
   },
   {
@@ -39,6 +44,7 @@
     "type": "video",
     "title": "Cumpleaños de mama",
     "src": "/media/videos/video6.mp4",
+    "poster": "/media/portada/portada6.jpeg",
     "date": "2025-09-30"
   },
   {
@@ -46,6 +52,7 @@
     "type": "video",
     "title": "kalel haciendo bromas",
     "src": "/media/videos/video7.mp4",
+    "poster": "/media/portada/portada7.jpeg",
     "date": "2023-04-30"
   },
   {
@@ -53,6 +60,7 @@
     "type": "video",
     "title": "Emilio en una picina de bolas",
     "src": "/media/videos/video8.mp4",
+    "poster": "/media/portada/portada8.jpeg",
     "date": "2022-12-03"
   },
   {
@@ -60,6 +68,7 @@
     "type": "video",
     "title": "Alex siendo alex",
     "src": "/media/videos/video9.mp4",
+    "poster": "/media/portada/portada9.jpeg",
     "date": "2023-05-19"
   },
   {
@@ -67,6 +76,7 @@
     "type": "video",
     "title": "Acho",
     "src": "/media/videos/video10.mp4",
+    "poster": "/media/portada/portada10.jpeg",
     "date": "2022-09-09"
   },
   {
@@ -74,6 +84,7 @@
     "type": "video",
     "title": "Peluquiada en tricen",
     "src": "/media/videos/video11.mp4",
+    "poster": "/media/portada/portada11.jpeg",
     "date": "2023-06-06"
   },
   {
@@ -81,6 +92,7 @@
     "type": "video",
     "title": "Alex y santa bailando",
     "src": "/media/videos/video12.mp4",
+    "poster": "/media/portada/portada12.jpeg",
     "date": "2023-08-24"
   },
   {
@@ -88,6 +100,7 @@
     "type": "video",
     "title": "Alex y un cucarachon",
     "src": "/media/videos/video13.mp4",
+    "poster": "/media/portada/portada13.jpeg",
     "date": "2025-08-16"
   }
 ]

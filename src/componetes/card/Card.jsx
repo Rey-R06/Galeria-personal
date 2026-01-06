@@ -6,8 +6,8 @@ const Card = ({ item, onSelect }) => {
       {item.type === "foto" ? (
         <img src={item.src} alt={item.nombre} />
       ) : (
-        <video preload="metadata" muted>
-          <source src={item.src} type="video/mp4"/>
+        <video preload="metadata" muted poster={item.poster}>
+          <source src={item.src} type="video/mp4" />
         </video>
       )}
       <h4>{item.nombre}</h4>
